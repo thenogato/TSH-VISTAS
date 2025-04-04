@@ -1,0 +1,12 @@
+cookies.json
+cookies*.json
+links.json
+license.json
+captcha.png
+*-captcha.png
+activity.log
+node_modules
+package-lock.json
+yarn.lock
+tasks.csv
+proxies.txt
